@@ -1,0 +1,47 @@
+#############################################  PARA EL FRONT #####################################################################
+
+# Compiled output
+HELPTEST_FRONT/dist
+HELPTEST_FRONT/tmp
+HELPTEST_FRONT/out-tsc
+HELPTEST_FRONT/bazel-out
+
+# Node
+HELPTEST_FRONT/node_modules
+HELPTEST_FRONTnpm-debug.log
+HELPTEST_FRONTyarn-error.log
+
+# IDEs and editors
+HELPTEST_FRONT/.idea/
+HELPTEST_FRONT/.project
+HELPTEST_FRONT/.classpath
+HELPTEST_FRONT/.c9/
+HELPTEST_FRONT/*.launch
+HELPTEST_FRONT/.settings/
+HELPTEST_FRONT/*.sublime-workspace
+
+# Visual Studio Code
+HELPTEST_FRONT/.vscode/*
+HELPTEST_FRONT/!.vscode/settings.json
+HELPTEST_FRONT/!.vscode/tasks.json
+HELPTEST_FRONT/!.vscode/launch.json
+HELPTEST_FRONT/!.vscode/extensions.json
+HELPTEST_FRONT/.history/*
+
+# Miscellaneous
+HELPTEST_FRONT/.angular/cache
+HELPTEST_FRONT/.sass-cache/
+HELPTEST_FRONT/connect.lock
+HELPTEST_FRONT/coverage
+HELPTEST_FRONT/libpeerconnection.log
+HELPTEST_FRONT/testem.log
+HELPTEST_FRONT/typings
+
+# System files
+HELPTEST_FRONT/.DS_Store
+HELPTEST_FRONT/Thumbs.db
+
+
+#############################################  PARA EL BACK #####################################################################
+
+HELPTEST_BACK/node_modules
